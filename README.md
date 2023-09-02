@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 
 - 🔭 I’m currently working on some online courses to help people learn Business English! __Right now I do One on One coaching.__
 
@@ -18,5 +17,5 @@ Or if you need help with your English, let's talk about how I can help you get t
 
 - ⚡ Fun fact: I lived in 🇯🇵Japan🇯🇵 for about 14 years. I speak decent Japanese, but it used to be much better. 
       __I truly UNDERSTAND how difficult it can be to try to sound intelligent in another language!__
--->
+
 ###
