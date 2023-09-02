@@ -1,5 +1,5 @@
 
-<H1>__Hey, thanks for stopping by!__</H1>
+<H1>Hey, thanks for stopping by!</H1>
 
 
 - 🔭 I’m currently working on some online courses to help people learn Business English! __Right now I do One on One coaching.__
