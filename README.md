@@ -1,8 +1,8 @@
 
 <H1>Hey, thanks for stopping by!</H1>
 
-<div id="couch" can-move style="font-size: 80px">🛋</div>
-- 🔭 I’m currently working on some online courses to help people learn Business English! __Right now I do One on One coaching.__
+
+- 🔭 I’m currently working on some online courses to help people learn Business English! <strong>Right now I do One on One coaching.</strong>
 
 - 🌱 I’m currently learning the usual...HTML, CSS annnnnnnnd JavaScript. I might actually get a handle on some of it in about 40 years...👨🏻‍🦳
 
