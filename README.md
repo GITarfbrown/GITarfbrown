@@ -15,5 +15,5 @@ Or if you need help with your English, let's talk about how I can help you get t
 - 📫 How to reach me: You can DM me on LinkedIn -- https://www.linkedin.com/in/tony-brown-mba-33607363/ or arfbrown+git@gmail.com
 
 - ⚡ Fun fact: I lived in 🇯🇵Japan🇯🇵 for about 14 years. I speak decent Japanese, but it used to be much better. 
-              __I truly UNDERSTAND how difficult it can be to try to sound intelligent in another language!__
+              <h3>I truly UNDERSTAND how difficult it can be to try to sound intelligent in another language!</H3>
 
