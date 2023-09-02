@@ -14,6 +14,6 @@
 
 - 📫 How to reach me: You can DM me on LinkedIn -- https://www.linkedin.com/in/tony-brown-mba-33607363/ or arfbrown+git@gmail.com
 
-- ⚡ Fun fact: I lived in 🇯🇵Japan🇯🇵 for about 14 years. I speak decent Japanese, but it used to be much better. 
+- ⚡ Fun fact: I lived in 🇯🇵Japan🇯🇵 for about 14 years. I speak decent 日本語, but it used to be much better. 
               <h3>I truly UNDERSTAND how difficult it can be to sound intelligent in another language!</H3>
 
