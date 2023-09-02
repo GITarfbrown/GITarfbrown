@@ -1,5 +1,5 @@
 
-__Hey, thanks for stopping by!__
+<H1>__Hey, thanks for stopping by!__</H1>
 
 
 - 🔭 I’m currently working on some online courses to help people learn Business English! __Right now I do One on One coaching.__
@@ -9,8 +9,6 @@ __Hey, thanks for stopping by!__
 - 👯 I’m looking to collaborate on any project you need help writing the English bits. Any documentation, README files, landing pages...Lets talk!
 
 Or if you need help with your English, let's talk about how I can help you get to the NEXT LEVEL🚀🚀🚀
-
-- 🤔 I’m looking for help with ...
 
 - 💬 Ask me about my experience teaching English. I have over 15 years of teaching experience! not only English, but Electronic Medical Records, presentation skills and other things too!
 
